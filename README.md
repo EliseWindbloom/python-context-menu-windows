@@ -69,7 +69,7 @@ This tool consists of 5 files:
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - Windows 10 or 11
 - Python installed and added to PATH (for running scripts)
