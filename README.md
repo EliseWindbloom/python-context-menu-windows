@@ -32,7 +32,7 @@ This tool consists of 5 files:
 ## Installation Instructions
 
 ### For "Run with Python (auto-venv)" Context Menu
-1. **Extract** the ZIP file to your desired location (e.g., your user folder or a project tools directory).
+1. **Download and Extract** the project [ZIP](https://github.com/EliseWindbloom/python-context-menu-windows/archive/refs/heads/main.zip) file to your desired location (e.g., your user folder or a project tools directory).
 2. **Right-click** `py_run_with_python_menu_install.bat` and choose **"Run as administrator"**.
 3. After successful installation, right-click any `.py` file and you’ll see:
    ```
