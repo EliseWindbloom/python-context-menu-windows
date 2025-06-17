@@ -1,4 +1,4 @@
-# 🐍 Python Right-Click Context Launcher
+# Python Right-Click Context Launcher
 
 A small utility to add **"Run with Python (auto-venv)"** and **"Edit Script"** options to `.py` files when you right-click them in Windows.
 
@@ -15,7 +15,7 @@ Ideal for developers working with multiple Python environments and needing quick
 
 ---
 
-## 📁 What's Included
+## What's Included
 
 This tool consists of 5 files:
 
@@ -29,7 +29,7 @@ This tool consists of 5 files:
 
 ---
 
-## ✅ Installation Instructions
+## Installation Instructions
 
 ### For "Run with Python (auto-venv)" Context Menu
 1. **Extract** the ZIP file to your desired location (e.g., your user folder or a project tools directory).
@@ -55,7 +55,7 @@ This tool consists of 5 files:
 
 ---
 
-## 🚫 Uninstallation
+## Uninstallation
 
 ### For "Run with Python (auto-venv)" Context Menu
 1. **Right-click** `py_run_with_python_menu_uninstall.bat` and choose **"Run as administrator"**.
@@ -78,7 +78,7 @@ This tool consists of 5 files:
 
 ---
 
-## 💡 Notes
+## Notes
 
 - This tool does not modify your system Python or global configuration.
 - It only affects the **right-click behavior for `.py` files**.
@@ -87,7 +87,7 @@ This tool consists of 5 files:
 
 ---
 
-## 🖱️ Optional: Set as Default App for .py Files
+## Optional: Set as Default App for .py Files
 
 If you want to run Python scripts by simply double-clicking them, you can set the `python_env_runner.bat` script as the default app for opening `.py` files. This will use the same logic as the "Run with Python (auto-venv)" context menu option, attempting to run the script with a nearby virtual environment if available, or falling back to the system Python.
 
